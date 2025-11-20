@@ -52,7 +52,7 @@ Per una panoramica completa del mio percorso accademico e professionale:
 
 * **Email:** [benve31@gmail.com](mailto:benve31@gmail.com)
 * **GitHub:** [AndreaRobertoBenvenuti](https://github.com/AndreaRobertoBenvenuti)
-* **LinkedIn:** [Andrea Roberto Benvenuti](https://www.linkedin.com/in/andrea-benvenuti-210835329/)
+* **LinkedIn:** [Andrea Roberto Benvenuti](https://www.linkedin.com/in/andrea-roberto-benvenuti-210835329/)
 
 Grazie per la visita! ✨
 
