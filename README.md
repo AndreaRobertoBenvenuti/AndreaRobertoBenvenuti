@@ -9,11 +9,6 @@ Welcome to my personal repository! Here you can find an overview of my academic 
 I am a **Computer Engineering student** at **Politecnico di Milano** (Italy).
 I am passionate about **Software Engineering**, **Digital System Design**, and **Problem Solving**. My goal is to transform complex ideas into efficient, concrete solutions, whether working independently or within a team.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaRobertoBenvenuti&show_icons=true&theme=radical" alt="Andrea's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaRobertoBenvenuti&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ---
 
 
