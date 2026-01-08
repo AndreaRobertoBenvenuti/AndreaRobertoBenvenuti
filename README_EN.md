@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Andrea Roberto Benvenuti**
-[![Versione Italiana](https://img.shields.io/badge/Versione_Italiana-🇮🇹-%23003366?style=flat-square)](./README.md)  
+[![Versione Italiana](https://img.shields.io/badge/Versione_Italiana-Clicca_qui-%23003366?style=flat-square&logo=google-translate&logoColor=white)](./README_EN.md)
 
 Welcome to my personal repository! Here you can find an overview of my academic path, my main projects, and my technical skills.
 

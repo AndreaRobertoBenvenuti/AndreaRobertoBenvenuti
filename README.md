@@ -1,5 +1,5 @@
 # 👋 Ciao, sono **Andrea Roberto Benvenuti**
-[![English Version](https://img.shields.io/badge/English_Version-EN-%23003366?style=flat-square)](./README_EN.md)
+[![English Version](https://img.shields.io/badge/For_English_Version-Click_Here-%23003366?style=flat-square&logo=google-translate&logoColor=white)](./README_EN.md)
 
 Benvenuto nella mia repository di presentazione! Qui puoi avere una panoramica rapida del mio percorso, dei miei progetti principali e accedere al mio CV.
 
