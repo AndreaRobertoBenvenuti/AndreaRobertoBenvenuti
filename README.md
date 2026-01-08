@@ -1,66 +1,63 @@
-# 👋 Hi there, I'm **Andrea Roberto Benvenuti**
+# 👋 Ciao, sono **Andrea Roberto Benvenuti**
+[![English Version](https://img.shields.io/badge/English_Version-EN-%23003366?style=flat-square)](./README_EN.md)
 
-Welcome to my personal repository! Here you can find an overview of my academic path, my main projects, and my technical skills.
-
----
-
-## 🚀 About Me
-
-I am a **Computer Engineering student** at **Politecnico di Milano** (Italy).
-I am passionate about **Software Engineering**, **Digital System Design**, and **Problem Solving**. My goal is to transform complex ideas into efficient, concrete solutions, whether working independently or within a team.
+Benvenuto nella mia repository di presentazione! Qui puoi avere una panoramica rapida del mio percorso, dei miei progetti principali e accedere al mio CV.
 
 ---
 
+## 🚀 Profilo
 
-
-## 💻 Key Projects
-
-Here are some of my most significant projects:
-
-* **Galaxy Trucker** – *JavaFX, Multiplayer, OOP*
-  A digital multiplayer implementation of the famous board game. Features a robust client-server architecture.
-  [📂 View Repo](https://github.com/AndreaRobertoBenvenuti/galaxy-trucker)
-
-* **Bakery Management System** – *C, Low-level Programming*
-  A simulation system written in C to manage orders, inventory, and deadlines for a pastry shop.
-  [📂 View Repo](https://github.com/AndreaRobertoBenvenuti/gestione-pasticceria)
-
-* **VHDL Digital Filter** – *VHDL, FPGA, FSM*
-  Hardware design of a Finite State Machine (FSM) for filtering data sequences on hardware level.
-  [📂 View Repo](https://github.com/AndreaRobertoBenvenuti/filtro-digitale-vhdl)
-
-* **Zampillo** – *Sustainable Tech, Gamification (WIP)*
-  A digital platform featuring an interactive map and gamification elements focused on the historic drinking fountains of Milan.
-  [📂 View Repo](https://github.com/AndreaRobertoBenvenuti/EcoDevs)
-
-> 🔭 Explore all my work: [GitHub Repositories](https://github.com/AndreaRobertoBenvenuti?tab=repositories)
+Studente di Ingegneria Informatica al Politecnico di Milano, appassionato di sviluppo software, progettazione digitale e problem solving. Mi piace trasformare idee in soluzioni concrete e lavorare in team.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💻 Progetti principali
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Java, C, VHDL |
-| **Software Engineering** | Design Patterns, Client-Server Architecture, Testing, Algorithmic Optimization |
-| **Methodologies** | UML, BPMN, Git, Agile/Scrum |
-| **Tools & IDEs** | IntelliJ IDEA, Visual Studio, Xilinx Vivado, Android Studio, RStudio |
-| **Soft Skills** | Problem Solving, Teamwork, Time Management |
+Ecco alcuni dei miei progetti più significativi:
+
+* **Galaxy Trucker** – Implementazione digitale multiplayer del gioco da tavolo in JavaFX
+  [Repo](https://github.com/AndreaRobertoBenvenuti/galaxy-trucker)
+
+* **Sistema di Gestione Pasticceria** – Simulatore in C per gestione ordini e scadenze
+  [Repo](https://github.com/AndreaRobertoBenvenuti/gestione-pasticceria)
+
+* **Filtro Digitale VHDL** – Progettazione hardware FSM per filtri su sequenze dati
+  [Repo](https://github.com/AndreaRobertoBenvenuti/filtro-digitale-vhdl)
+
+* **Zampillo** – Piattaforma digitale con mappa interattiva e gamification su fontanelle storiche milanesi (in corso)
+  [Repo](https://github.com/AndreaRobertoBenvenuti/EcoDevs)
+
+> Per vedere tutti i miei progetti: [GitHub Repositories](https://github.com/AndreaRobertoBenvenuti?tab=repositories)
+
+---
+
+## 🛠️ Competenze chiave
+
+* Linguaggi: **Java, C, VHDL**
+* Sviluppo software: design pattern, architetture client-server, test e ottimizzazione algoritmica
+* Modellazione e gestione progetti: UML, BPMN, Git, metodologie agili
+* Software: IntelliJ IDEA, Visual Studio, Xilinx Vivado, Android Studio, RStudio
+* Soft skills: problem solving, teamwork, comunicazione, gestione del tempo
 
 ---
 
 ## 📄 Curriculum Vitae
 
-Interested in my full background?
+Per una panoramica completa del mio percorso accademico e professionale:
 
-👉 **Download my Resume**: [CV PDF](./CV.pdf)
+👉 **Scarica il mio CV**: [CV PDF](./CV.pdf)
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Contatti
 
-* 📧 **Email:** [benve31@gmail.com](mailto:benve31@gmail.com)
-* 🐙 **GitHub:** [AndreaRobertoBenvenuti](https://github.com/AndreaRobertoBenvenuti)
-* 💼 **LinkedIn:** [Andrea Roberto Benvenuti](https://www.linkedin.com/in/andrea-roberto-benvenuti-210835329/)
+* **Email:** [benve31@gmail.com](mailto:benve31@gmail.com)
+* **LinkedIn:** [Andrea Roberto Benvenuti](https://www.linkedin.com/in/andrea-roberto-benvenuti-210835329/)
 
-Thanks for visiting! ✨
+Grazie per la visita! ✨
+
+
+<!---
+AndreaRobertoBenvenuti/AndreaRobertoBenvenuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
